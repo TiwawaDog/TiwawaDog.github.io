@@ -1,0 +1,21 @@
+h1 {
+    color: white;
+    width: 180px;
+    text-align: center;
+    background-color: red;
+}
+
+body {
+background-color: rgb(255, 214, 214);
+}
+
+li{
+    list-style:none;
+    padding:20px 30px 20px 30px;
+    color: white;
+    background-color: rgb(255, 124, 168);
+        }
+
+    ul{
+        display:flex;
+        }
